@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/sj/legmodel_ws/install/exobasic/include/**",
+        "/home/sj/legmodel_ws/install/exo_vone/include/**",
+        "/opt/ros/galactic/include/**",
+        "/home/sj/legmodel_ws/src/exo_vone/include/**",
+        "/home/sj/legmodel_ws/src/exobasic/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
