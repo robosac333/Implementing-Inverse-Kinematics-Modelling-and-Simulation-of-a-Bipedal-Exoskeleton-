@@ -16,15 +16,15 @@ Steps involved :
    
 ![all0](https://github.com/robosac333/Implementing-Inverse-Kinematics-Modelling-and-Simulation-of-a-Bipedal-Exoskeleton-/assets/143353582/15d96a00-ab30-4fe6-8ffa-9e758ea9240e)
 
-3.  Validated DH Parameters using Peter-Corke toolbox on MATLAB and changing ref axes related to joints on DDS Solidworks
+2.  Validated DH Parameters using Peter-Corke toolbox on MATLAB and changing ref axes related to joints on DDS Solidworks
    
 ![image](https://github.com/robosac333/Implementing-Inverse-Kinematics-Modelling-and-Simulation-of-a-Bipedal-Exoskeleton-/assets/143353582/54462437-c2ba-42c4-9f39-215bbd9e2d20)
 
-4. Create an algorithm using DH Parameter (Forward Kinematics) to implement Inverse Kinematics and complete the leg trajectory for both legs
+3. Create an algorithm using DH Parameter (Forward Kinematics) to implement Inverse Kinematics and complete the leg trajectory for both legs
 
 ![image](https://github.com/robosac333/Implementing-Inverse-Kinematics-Modelling-and-Simulation-of-a-Bipedal-Exoskeleton-/assets/143353582/1d7aa0b9-f4b8-479e-9a88-d082873c73cf)
 
-6. Added Position Controllers for specified joint limit in each loop to implement Inverse Kinematics changing the joint positions at a frequency to imitate human gait.
+4. Added Position Controllers for specified joint limit in each loop to implement Inverse Kinematics changing the joint positions at a frequency to imitate human gait.
 
 ![2](https://github.com/robosac333/Implementing-Inverse-Kinematics-Modelling-and-Simulation-of-a-Bipedal-Exoskeleton-/assets/143353582/f1b3e9ec-304a-416b-8ebd-11a6991e0907)
 
