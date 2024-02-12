@@ -1,6 +1,6 @@
 # Implementing-Inverse-Kinematics-Modelling-and-Simulation-of-a-Bipedal-Exoskeleton
 
-![Alt Text]([https://drive.google.com/file/d/1xKqYNbVyts7-ay0eHZaspbPKufwV-wmr/view?usp=sharing)](https://drive.google.com/drive/u/2/home)
+![Alt Text](https://drive.google.com/drive/u/2/home)
 
 The project involved developing a bipedal exoskeleton using Inverse
 kinematics to map the trajectory of human gait in the gazebo
