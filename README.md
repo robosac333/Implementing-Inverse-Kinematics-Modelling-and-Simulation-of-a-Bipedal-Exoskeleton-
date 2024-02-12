@@ -1,5 +1,7 @@
 # Implementing-Inverse-Kinematics-Modelling-and-Simulation-of-a-Bipedal-Exoskeleton
 
+![Alt Text](https://drive.google.com/file/d/1xKqYNbVyts7-ay0eHZaspbPKufwV-wmr/view?usp=sharing)
+
 The project involved developing a bipedal exoskeleton using Inverse
 kinematics to map the trajectory of human gait in the gazebo
 environment. This is a rehabilitation robot intended to confront
